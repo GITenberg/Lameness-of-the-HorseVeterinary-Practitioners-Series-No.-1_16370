@@ -1,0 +1,30 @@
+_repo: Lameness-of-the-HorseVeterinary-Practitioners-Series-No.-1_16370
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lacroix, John Victor
+    birthdate: 1882
+    gutenberg_agent_id: '6656'
+    url: http://www.gutenberg.org/2009/agents/6656
+description: ''
+gutenberg_bookshelf: Zoology
+gutenberg_issued: '2005-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16370'
+  lccn: '16023154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lameness in horses'
+- !lcc 'SF'
+- !lcsh 'Horses -- Health'
+title: 'Lameness of the Horse
+
+  Veterinary Practitioners'' Series, No. 1'
+url: http://www.gutenberg.org/ebooks/16370
